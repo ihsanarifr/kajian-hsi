@@ -19,4 +19,5 @@ fields:
   label: disqus
   hidden: false
 pages:
+- content/posts/tentang/testing-build-from-forestry.md
 - content/posts/testing-build-from-forestry.md
