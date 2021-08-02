@@ -8,7 +8,7 @@ title = "Halaqah 01 ~ Pengagungan Terhadap Ilmu (Bagian 1) "
 +++
 Telah berkata guru kami yang mulia **Syeikh Dr Sholeh bin Abdillah bin Muhammad al-Utsaimin** di dalam mukadimah kitab beliau **_"khulasoh ta'zhimul ilmi"_** bahwa
 
-> _Banyak sedikitnya ilmu seseorang adalah sesuai dengan pengagungan dia terhadap ilmu itu sendiri. Barangsiapa yang hatinya penuh dengan pengagungan terhadap ilmu maka hati tersebut pantas menjadi tempat bagi ilmu tersebut. Sebaliknya barangsiapa yang berkurang pengagungannya terhadap ilmu maka akan semakin berkurang bagiannya._
+> Banyak sedikitnya ilmu seseorang adalah sesuai dengan pengagungan dia terhadap ilmu itu sendiri. Barangsiapa yang hatinya penuh dengan pengagungan terhadap ilmu maka hati tersebut pantas menjadi tempat bagi ilmu tersebut. Sebaliknya barangsiapa yang berkurang pengagungannya terhadap ilmu maka akan semakin berkurang bagiannya.
 
 Kemudian beliau menyebutkan 20 Perkara yang merupakan bentuk pengagungan terhadap ilmu
 
@@ -29,7 +29,7 @@ Mengikhlaskan niat karena Alloh di dalam menuntutnya sesuai dengan keikhlasan se
 
 Sebagaimana dalam hadist
 
-> _Hendaklah engkau semangat melakukan apa yang bermanfaat untuk dirimu dan memohonlah pertolongan kepada Alloh dan janganlah engkau merasa lemah. \~HR. Muslim._
+> Hendaklah engkau semangat melakukan apa yang bermanfaat untuk dirimu dan memohonlah pertolongan kepada Alloh dan janganlah engkau merasa lemah. \~HR. Muslim.
 
 Dahulu **Imam Ahmad bin Hammbal** terkadang ingin keluar dari rumahnya untuk menghadiri majelis ilmu gurunya sebelum datang waktu subuh dan sebagian dari mereka membaca _shohih Al-Bukhori_ kepada gurunya dalam 3 majelis atau tiga pertemuan.
 
