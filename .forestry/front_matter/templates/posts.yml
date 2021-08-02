@@ -18,3 +18,5 @@ fields:
   type: boolean
   label: disqus
   hidden: false
+pages:
+- content/posts/testing-build-from-forestry.md
