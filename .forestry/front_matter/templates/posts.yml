@@ -14,3 +14,7 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: disqus
+  type: boolean
+  label: disqus
+  hidden: false
