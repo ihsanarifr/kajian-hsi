@@ -12,7 +12,7 @@ Telah berkata guru kami yang mulia **Syeikh Dr Sholeh bin Abdillah bin Muhammad 
 
 Kemudian beliau menyebutkan 20 Perkara yang merupakan bentuk pengagungan terhadap ilmu
 
-## **1. Membersihkan tempat ilmu (yaitu hati)**
+## 1. Membersihkan tempat ilmu (yaitu hati)
 
 Apabila hari kita bersih, maka ilmu akan berkenan masuk, semakin bersih maka semakin mudah menerima ilmu tersebut. Dan hal yang mengotori hati dan menjadikan ilmu sulit masuk adalah kotoran **_syahwat,_** dan **_syubkhat._**
 
