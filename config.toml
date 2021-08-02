@@ -1,9 +1,9 @@
 baseURL = "https://kajian-hsi.netlify.app/"
-languageCode = "en-us"
-title = "My personal blog"
+languageCode = "id-ID"
+title = "Catatan Kajian HSI Abdullah Roy"
 theme = "ezhil"
 
-copyright = "© Copyright notice"
+copyright = "© Dibuat Oleh"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -11,9 +11,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-123-45"
+googleAnalytics = "G-BWJTN85WY2"
 # Your Disqus sortname.
-disqusShortname = "localhost"
+disqusShortname = "ihsanarif"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
@@ -23,7 +23,7 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+    subtitle = "Halaqah Silsilah Ilmiyyah oleh Ustadz Abdullah Roy [HSI Edu](https://edu.hsi.id)"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
@@ -55,22 +55,22 @@ summaryLength = 20
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
+name = "Beranda"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Semua Catatan"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "Tentang"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "Tag"
 url = "/tags"
 weight = 4
 
@@ -79,12 +79,12 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/vividvilla/ezhil"
+url = "https://github.com/ihsanarifr"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/gohugoio"
+url = "https://twitter.com/ihsanarifr"
 
 # Enable tags.
 [taxonomies]
