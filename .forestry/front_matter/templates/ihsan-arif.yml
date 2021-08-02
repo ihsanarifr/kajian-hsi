@@ -1,9 +1,0 @@
----
-label: Ihsan Arif
-hide_body: true
-fields:
-- name: a
-  type: text
-  config:
-    required: false
-  label: a
