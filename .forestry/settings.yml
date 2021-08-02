@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: post
+  create: all
+  match: "**/*"
+  templates:
+  - ihsan-arif
+- type: directory
   path: content
   label: Pages
   create: all
