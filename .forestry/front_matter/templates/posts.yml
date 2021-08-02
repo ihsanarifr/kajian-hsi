@@ -19,5 +19,4 @@ fields:
   label: disqus
   hidden: false
 pages:
-- content/posts/test.md
 - content/posts/testing-build-from-forestry.md
