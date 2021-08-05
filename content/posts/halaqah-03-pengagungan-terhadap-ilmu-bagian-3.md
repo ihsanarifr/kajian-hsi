@@ -1,5 +1,5 @@
 +++
-date = 2021-08-04T17:00:00Z
+date = 2021-08-03T17:00:00Z
 description = "Menghafal membutuhkan kesabaran, menghapal membutuhkan kesabaran, memahami membutuhkan kesabaran, menghadiri majelis ilmu membutuhkan kesabaran. Demikian pula menjaga hak seorang guru membutuhkan kesabaran."
 disqus = true
 tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah", "Halaqah Silsilah Ilmiyyah", "Pengagungan Terhadap Ilmu", "HSI Abdullah Roy"]
