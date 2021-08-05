@@ -4,7 +4,7 @@ description = "Orang yang salah jalan dijalan menuntut ilmu maka dia tidak akan 
 disqus = true
 draft = true
 tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah", "Halaqah Silsilah Ilmiyyah", "Pengagungan Terhadap Ilmu", "HSI Abdullah Roy"]
-title = "Halaqah 02 ~ Pengagungan Terhadap Ilmu (Bagian 2) -(copy)"
+title = "Pengagungan Terhadap Ilmu Bagian 3"
 
 +++
 ## 5. Menempuh jalan yang benar di dalam menuntut ilmu agama
