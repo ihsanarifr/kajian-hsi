@@ -3,7 +3,7 @@ date = 2021-08-01T17:00:00Z
 description = "Pengagungan Terhadap Ilmu. Telah berkata guru kami yang mulia Syeikh Dr Sholeh bin Abdillah bin Muhammad al-Utsaimin di dalam mukadimah kitab beliau \"khulasoh ta'zhimul ilmi\" bahwa Banyak sedikitnya ilmu seseorang adalah sesuai dengan pengagungan dia terhadap ilmu itu sendiri. Kemudian beliau menyebutkan 20 Perkara yang merupakan bentuk pengagungan terhadap ilmu"
 disqus = true
 tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy", "Pengagungan Terhadap Ilmu", "Halaqah Silsilah Ilmiyyah", "Halaqah"]
-title = "Halaqah 01 ~ Pengagungan Terhadap Ilmu (Bagian 1) "
+title = "Halaqah 01 ~ Pengagungan Terhadap Ilmu Bagian 1 "
 
 +++
 Telah berkata guru kami yang mulia **Syaikh Dr. Shaleh bin Abdillah ibn Hamid Al ‘Ushaimi hafdzhahullah** di dalam muqadimmah kitab beliau **_"khulasoh ta'zhimul ilmi"_** bahwa
