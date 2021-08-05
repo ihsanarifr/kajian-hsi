@@ -1,35 +1,47 @@
 +++
-date = 2021-08-02T17:00:00Z
-description = "Orang yang salah jalan dijalan menuntut ilmu maka dia tidak akan mendapatkan keinginannya atau mendapatkan sedikit disertai rasa lelah yang sangat. Dan cara yang benar dalam mempelajari satu cabang ilmu adalah"
+date = 2021-08-04T17:00:00Z
+description = "Menghafal membutuhkan kesabaran, menghapal membutuhkan kesabaran, memahami membutuhkan kesabaran, menghadiri majelis ilmu membutuhkan kesabaran. Demikian pula menjaga hak seorang guru membutuhkan kesabaran."
 disqus = true
-draft = true
 tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah", "Halaqah Silsilah Ilmiyyah", "Pengagungan Terhadap Ilmu", "HSI Abdullah Roy"]
 title = "Pengagungan Terhadap Ilmu Bagian 3"
 
 +++
-## 5. Menempuh jalan yang benar di dalam menuntut ilmu agama
+## 9. Sabar Dalam menuntut ilmu dan Menyampaikan Ilmu
 
-Orang yang salah jalan didalam menuntut ilmu maka dia tidak akan mendapatkan keinginannya atau mendapatkan sedikit disertai rasa lelah yang sangat. Dan cara yang benar dalam mempelajari satu cabang ilmu adalah
+Menghafal membutuhkan kesabaran, menghapal membutuhkan kesabaran, memahami membutuhkan kesabaran, menghadiri majelis ilmu membutuhkan kesabaran. Demikian pula menjaga hak seorang guru membutuhkan kesabaran.
 
-1. Menghafal sebuah matan kitab yang menyeluruh dan dia mengumpulkan perkara-perkara yang **Roojih** atau yang dikuatkan menurut para ulama dibidang tersebut.
-2. Mempelajari ilmu tersebut dari seorang yang ahli yang bisa menjadikan teladan dan dia mampu mengajar
+Berkata **Yahya Ibnu Abi Katsiirin**
 
-## 6. Mendahulukan ilmu yang paling penting kemudian yang setelahnya dan setelahnya
+لا يُسْتَطَاعُ العلمَ بِرَاحَةِ الجِسْم
 
-Dan ilmu yang paling penting adalah ilmu yang berkaitan dengan ibadah seseorang kepada Alloh. Dan ilmu yang paling penting adalah ilmu yang berkaitan dengan **'ubudiyyah** seseorang kepada Allah Azza Wa Jalla. Seperti, ilmu aqidah kemudian tata cara wudhu, tata cara sholat, dll.
+> Tidak didapatkan ilmu dengan badan yang berleha leha
 
-## 7. Bersegera untuk mendapatkan ilmu dan memanfaatkan waktu muda
+Demikian pula menyampaikan dan mengajarakan perlu kesabaran duduk bersama dengan para penuntut ilmu perlu kesabaran, memahamkan mereka perlu kesabaran, demikian pula menghadapi kesalahan kesalahan mereka perlu kesabaran.
 
-Karena waktu muda adalah waktu yang emas untuk mempelajari ilmu agama. Berkata _Al Hasan Al Bashri Rahimahullah,_
+## 10. Memperhatikan Adab Adab Ilmu
 
-العلم في الصغر كالنقص في الحجر
+Ilmu yang bermanfa’at didapatkan diantaranya dengan memperhatikan adab dan adab disini mencakup terhadap diri dalam pelajaran terhadap guru dan teman dan lain lain.
 
-> Menuntut ilmu diwaktu kecil seperti mengukir di batu.
+Orang yang beradab di dalam ilmu berarti dia mengagungkan ilmu, maka dia dipandang sebagai orang yang berhak untuk mendapatkan ilmu tersebut. Adapun orang yang tidak beradab, maka dikhawatirkan ilmu akan sia-sia bila disampaikan kepadanya.
 
-Adapun apabila sudah tua maka kebanyakan manusia akan memiliki banyak kesibukan, pikiran dan memiliki banyak koneksi. Kalau bisa mengatasi itu semua maka InshaAlloh akan mendapatkan Ilmu.
+berkata **Ibnu Sirrin**
 
-Para sahabat Nabi SAW, dahulu mempelajari agama dan mereka sudah berumur.
+كانوا يتعلمون الهَدْيَ كما يتعلمون العلم
 
-## 8. Pelan-pelan didalam menuntut ilmu
+> Dahulu mereka mempelajari adab, sebagaimana mereka mempelajari ilmu
 
-Karena menuntut ilmu tidak dapat dilakukan serta merta sekali jalan tetapi diambil ilmu secara pelan-pelan dengan memulai kitab-kitab yang ringkas, menghafal dan memahami maknanya. Dan jangan kita memulai menuntut ilmu dengan membaca kitab-kitab yang panjang
+Bahkan sebagian salaf mendahulukan mempelajari adab sebelum mempelajari ilmu dan banyak diantara para penuntut yang tidak mendapatkan ilmu, karena dia menyia-nyiakan adab.
+
+## 11. Menjaga Ilmu Dari Apa yang Menjelekkannya
+
+Hendaknya seorang penuntut ilmu menjaga wibawanya karena apabila dia melakukan sesuatu yang merusak wibawanya sebagai seorang penuntut ilmu berarti dia telah merendahkan ilmu, seperti terlalu banyak menoleh jalan, berteman akrab dengan orang orang fasiq dan lain lain.
+
+## 12. Memilih Teman Yang Shaleh
+
+Seorang penuntut ilmu perlu teman yang membantu untuk mendaptakan ilmu dan bersungguh sungguh, teman yang tidak baik akan memberi pengaruh yang tidak baik.
+
+Rasulullah shallallahu ‘alayhi wa sallam bersabda
+
+الرجل على دين خليله فلينظر أحدكم من يخالل
+
+> Seseorang berada di atas agama teman akrabnya, maka hendaklah salah seorang diantara kalian melihat dengan siapa dia berteman akrab” (Hadits Hasan diriwayat Abu Daud dan Tirmidzi)
