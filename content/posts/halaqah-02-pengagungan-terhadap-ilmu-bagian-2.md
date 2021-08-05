@@ -3,7 +3,7 @@ date = 2021-08-02T17:00:00Z
 description = "Orang yang salah jalan dijalan menuntut ilmu maka dia tidak akan mendapatkan keinginannya atau mendapatkan sedikit disertai rasa lelah yang sangat. Dan cara yang benar dalam mempelajari satu cabang ilmu adalah"
 disqus = true
 tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah", "Halaqah Silsilah Ilmiyyah", "Pengagungan Terhadap Ilmu", "HSI Abdullah Roy"]
-title = "Halaqah 02 ~ Pengagungan Terhadap Ilmu (Bagian 2) "
+title = "Halaqah 02 ~ Pengagungan Terhadap Ilmu Bagian 2"
 
 +++
 ## 5. Menempuh jalan yang benar di dalam menuntut ilmu agama
