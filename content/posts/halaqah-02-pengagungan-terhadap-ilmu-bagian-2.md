@@ -8,22 +8,24 @@ title = "Halaqah 02 ~ Pengagungan Terhadap Ilmu (Bagian 2) "
 +++
 ## 5. Menempuh jalan yang benar di dalam menuntut ilmu agama
 
-Orang yang salah jalan dijalan menuntut ilmu maka dia tidak akan mendapatkan keinginannya atau mendapatkan sedikit disertai rasa lelah yang sangat. Dan cara yang benar dalam mempelajari satu cabang ilmu adalah
+Orang yang salah jalan didalam menuntut ilmu maka dia tidak akan mendapatkan keinginannya atau mendapatkan sedikit disertai rasa lelah yang sangat. Dan cara yang benar dalam mempelajari satu cabang ilmu adalah
 
-1. Menghafal sebuah kitab yang menyeluruh dan dia mengumpulkan perkara-perkara yang **Roojih** atau yang dikuatkan menurut para ulama dibidang tersebut.
+1. Menghafal sebuah matan kitab yang menyeluruh dan dia mengumpulkan perkara-perkara yang **Roojih** atau yang dikuatkan menurut para ulama dibidang tersebut.
 2. Mempelajari ilmu tersebut dari seorang yang ahli yang bisa menjadikan teladan dan dia mampu mengajar
 
 ## 6. Mendahulukan ilmu yang paling penting kemudian yang setelahnya dan setelahnya
 
-Dan ilmu yang paling penting adalah ilmu yang berkaitan dengan ibadah seseorang kepada Alloh. Dan ilmu yang paling penting adalah ilmu yang berkaitan dengan ubudiyyah seseorang kepada Allah Azza Wa Jalla. Seperti, ilmu aqidah kemudian tata cara wudhu, tata cara sholat, dll. 
+Dan ilmu yang paling penting adalah ilmu yang berkaitan dengan ibadah seseorang kepada Alloh. Dan ilmu yang paling penting adalah ilmu yang berkaitan dengan **'ubudiyyah** seseorang kepada Allah Azza Wa Jalla. Seperti, ilmu aqidah kemudian tata cara wudhu, tata cara sholat, dll.
 
 ## 7. Bersegera untuk mendapatkan ilmu dan memanfaatkan waktu muda
 
 Karena waktu muda adalah waktu yang emas untuk mempelajari ilmu agama. Berkata _Al Hasan Al Bashri Rahimahullah,_
 
+العلم في الصغر كالنقص في الحجر
+
 > Menuntut ilmu diwaktu kecil seperti mengukir di batu.
 
-Adapun apabila sudah tua maka kebanyakan manusia akan memiliki banyak kesibukan, pikiran dan memiliki banyak koneksi. Kalau bisa mengatasi itu semua maka InshaAlloh akan mendapatkan Ilmu. 
+Adapun apabila sudah tua maka kebanyakan manusia akan memiliki banyak kesibukan, pikiran dan memiliki banyak koneksi. Kalau bisa mengatasi itu semua maka InshaAlloh akan mendapatkan Ilmu.
 
 Para sahabat Nabi SAW, dahulu mempelajari agama dan mereka sudah berumur.
 
