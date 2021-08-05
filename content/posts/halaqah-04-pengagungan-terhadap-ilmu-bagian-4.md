@@ -1,5 +1,5 @@
 +++
-date = 2021-08-05T06:00:00Z
+date = 2021-08-04T17:00:00Z
 description = "Belajar dari seorang guru tidak banyak manfa’atnya jika tidak menghapal, bermudzakarah, dan bertanya. Menghapal berkaitan dengan diri sendiri, bermudzakarah mengulang kembali bersama teman dan bertanya maksudnya adalah bertanya kepada sang guru."
 disqus = true
 tags = ["Pengagungan Terhadap Ilmu", "HSI Abdullah Roy", "Halaqah", "Halaqah Silsilah Ilmiyyah", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى"]
