@@ -3,7 +3,7 @@ date = 2021-08-08T17:00:00Z
 description = "Mempelajari tauhid merupakan kewajiban setiap muslim, baik laki-laki maupun wanita, karena Allah SWT menciptakan manusia dan jin adalah hanya untuk bertauhid yaitu meng-Esakan ibadah kepada Allah."
 disqus = true
 tags = ["Halaqah Silsilah Ilmiyyah", "Belajar Tauhid", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah", "HSI Abdullah Roy"]
-title = "Halaqah 01 ~ Mengapa Kita Harus Belajar Tauhid 2"
+title = "Halaqah 01 ~ Mengapa Kita Harus Belajar Tauhid"
 
 +++
 Mempelajari **tauhid** merupakan kewajiban setiap muslim, baik laki-laki maupun wanita, karena Allah SWT menciptakan manusia dan jin adalah hanya untuk bertauhid yaitu meng-**Esa**kan ibadah kepada Allah. Allah SWT berfirman:
