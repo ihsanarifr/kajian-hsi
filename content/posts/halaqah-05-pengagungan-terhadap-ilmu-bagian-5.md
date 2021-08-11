@@ -3,7 +3,7 @@ date = 2021-08-05T17:00:00Z
 description = "Ilmu memiliki kehormatan yang mengharuskan penuntutnya dan ahlinya untuk membela dan menolongnya bila ada yang berusaha untuk merusaknya.\n\nOleh karena itu, para ulama membantah orang yang menyimpang bila jelas penyimpangannya dari syari’at siapapun dia. Yang demikian untuk menjaga agama dan menasehati kaum muslimin."
 disqus = true
 tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah Silsilah Ilmiyyah", "Pengagungan Terhadap Ilmu", "Halaqah", "HSI Abdullah Roy"]
-title = "Halaqah 05 ~ Pengagungan Terhadap Ilmu (Bagian 5)"
+title = "Halaqah 05 ~ Pengagungan Terhadap Ilmu Bagian 5"
 
 +++
 ## 17. Membela Ilmu Dan Membelanya
