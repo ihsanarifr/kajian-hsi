@@ -3,7 +3,7 @@ date = 2021-08-12T17:00:00Z
 description = "Orang yang berbuat syirik dan dia meninggal dunia tanpa bertaubat kepada Allah maka dosa syirik tersebut tidak akan diampuni. Namun, apabila dia bertaubat sebelum dia meninggal, maka Allah SWT akan mengampuni dosanya bagaimanapun besar dosa tersebut."
 disqus = true
 tags = ["Belajar Tauhid", "Halaqah Silsilah Ilmiyyah", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy"]
-title = "Halaqah 02 ~  Taubat Dari Kesyirikan"
+title = "Halaqah 05 ~ Taubat Dari Kesyirikan"
 
 +++
 Orang yang berbuat syirik dan dia meninggal dunia tanpa bertaubat kepada Allah maka dosa syirik tersebut tidak akan diampuni. Namun, apabila dia bertaubat sebelum dia meninggal, maka Allah SWT akan mengampuni dosanya bagaimanapun besar dosa tersebut. **Taubat Nasuha** adalah taubat yang terpenuhi di dalamnya 3 syarat yaitu:
