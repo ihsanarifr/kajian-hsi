@@ -11,14 +11,15 @@ summaryLength = 20
 theme = "ezhil"
 title = "Catatan Kajian"
 [[menu.main]]
+name = "Tag"
+parent = "Semua"
+url = "/tags"
+weight = 2
+[[menu.main]]
 name = "Materi Kajian"
 parent = "Semua"
 url = "/categories"
 weight = 1
-[[menu.main]]
-name = "Tag"
-url = "/tags"
-weight = 4
 [[menu.main]]
 name = "Tentang"
 url = "/about"
