@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: ''
+  label: documen-section
+  match: "**/*"
+- type: heading
+  label: testing-sidebar
 - type: directory
   path: content/posts
   label: Posts
