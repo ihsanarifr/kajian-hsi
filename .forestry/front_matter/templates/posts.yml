@@ -18,6 +18,12 @@ fields:
   type: boolean
   label: disqus
   hidden: false
+- name: Kategori
+  type: text
+  config:
+    required: false
+  label: category
+  description: Kategori Artikel
 pages:
 - content/posts/halaqah-01-mengapa-kita-harus-belajar-tauhid-2.md
 - content/posts/halaqah-01-pengagungan-terhadap-ilmu-bagian-1.md
