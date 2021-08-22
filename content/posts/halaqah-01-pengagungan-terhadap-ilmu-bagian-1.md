@@ -1,4 +1,5 @@
 +++
+Kategori = "Pengagungan Terhadap Ilmu"
 date = 2021-08-01T17:00:00Z
 description = "Pengagungan Terhadap Ilmu. Telah berkata guru kami yang mulia Syeikh Dr Sholeh bin Abdillah bin Muhammad al-Utsaimin di dalam mukadimah kitab beliau \"khulasoh ta'zhimul ilmi\" bahwa Banyak sedikitnya ilmu seseorang adalah sesuai dengan pengagungan dia terhadap ilmu itu sendiri. Kemudian beliau menyebutkan 20 Perkara yang merupakan bentuk pengagungan terhadap ilmu"
 disqus = true
