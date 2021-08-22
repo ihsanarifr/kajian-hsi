@@ -3,7 +3,7 @@ Kategori = "Belajar Tauhid"
 date = 2021-08-16T17:00:00Z
 description = "Allah adalah Dzat yang memberi manfaat dan mudhorot. Kalau Allah menghendaki untuk memberikan manfaat kepada seseorang maka tidak akan ada yang bisa mencegahnya. Demikian pula sebaliknya ketika Allah menghendaki untuk menimpakan musibah kepada seseorang maka tidak akan ada yang bisa menolaknya."
 disqus = true
-tags = ["Belajar Tauhid", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy"]
+tags = ["Halaqah Silsilah Ilmiyyah", "Belajar Tauhid", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy"]
 title = "Halaqah 07 ~ Termasuk Syirik Memakai Jimat"
 
 +++
