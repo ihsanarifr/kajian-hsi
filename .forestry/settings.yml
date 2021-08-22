@@ -7,9 +7,6 @@ sections:
 - type: document
   path: ''
   label: documen-section
-  match: "**/*"
-- type: heading
-  label: testing-sidebar
 - type: directory
   path: content/posts
   label: Posts
