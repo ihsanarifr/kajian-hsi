@@ -1,6 +1,6 @@
 +++
 Kategori = "Belajar Tauhid"
-date = 2021-08-17T17:00:00Z
+date = 2021-08-18T05:00:00Z
 description = "Menyembelih termasuk ibadah yang agung di dalam agama Islam ini. Didalamnya ada pengagungan terhadap اللَّهُ Rabb semesta alam dan merupakan wujud cinta dengan mengorbankan sebagian harta kita untuk اللَّهُ. Seperti ibadah qurban di hari raya, aqiqah, dan juga Hadiyuh bagi sebagian jama’ah Haji."
 disqus = true
 tags = ["HSI Abdullah Roy", "", "Belajar Tauhid", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah Silsilah Ilmiyyah"]
