@@ -1,4 +1,14 @@
 ---
 label: Ihsan Arif
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: include
+  config: {}
+  template: posts
+  label: test
+- name: tesss
+  type: include
+  config: {}
+  template: pages
+  label: tesss
