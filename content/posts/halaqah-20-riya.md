@@ -1,6 +1,6 @@
 +++
 Kategori = "Belajar Tauhid"
-date = 2021-09-19T11:34:04Z
+date = 2021-09-02T11:34:04Z
 description = "Seorang mengamalkan sebuah ibadah bukan karena ingin pahala dari Allâh akan tetapi ingin di lihat manusia dan di puji. Riya’ hukumnya haram dan dia termasuk syirik kecil yang samar yang tidak mengeluarkan seseorang dari islam.\n\nRiya’ adalah diantara sebab tidak di terimanya amal ibadah seseorang bgaimanapun besar amalan tersebut"
 disqus = true
 tags = ["Belajar Tauhid", "HSI Abdullah Roy", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "Halaqah Silsilah Ilmiyyah"]
