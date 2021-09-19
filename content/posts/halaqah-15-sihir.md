@@ -1,7 +1,7 @@
 +++
 Kategori = "Belajar Tauhid"
 date = 2021-08-25T17:00:00Z
-description = "Sihir bermacam-macam jenisnya dan sihir yang merupakan kesyirikan adalah sihir yang terjadi dengan meminta pertolongan kepada syetan, dan syetan tidak akan menolong seseorang kecuali setelah melakukan perkara yg dia ridhoi yaitu:"
+description = "Sihir bermacam-macam jenisnya dan sihir yang merupakan kesyirikan adalah sihir yang terjadi dengan meminta pertolongan kepada syetan, dan syetan tidak akan menolong seseorang kecuali setelah melakukan perkara yg dia ridhoi yaitu"
 disqus = true
 tags = ["Belajar Tauhid", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy", "Halaqah Silsilah Ilmiyyah"]
 title = "Halaqah 15 ~ Sihir"
