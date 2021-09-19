@@ -3,7 +3,7 @@ Kategori = "Belajar Tauhid"
 date = 2021-08-24T17:00:00Z
 description = "Orang yang sholih adalah orang yang baik karena mengikuti syariat Allâh baik dalam hal Aqidah, Ibadah maupun Muamalah. Mereka memiliki derajat yang berbeda-beda di sisi Allâh. Kita sebagai seorang muslim diperintahkan untuk mencintai mereka, kita juga diperintahkan untuk mengikuti jejak mereka dalam kebaikan."
 disqus = true
-tags = ["Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy", "Halaqah Silsilah Ilmiyyah"]
+tags = ["Belajar Tauhid", "Ustadz Dr. Abdullah Roy, M.A حفظه لله تعالى", "HSI Abdullah Roy", "Halaqah Silsilah Ilmiyyah"]
 title = "Halaqah 14 ~ Berlebihan Terhadap Orang Shalih Pintu Kesyirikan"
 
 +++
